@@ -1,6 +1,7 @@
 ## Hi there 👋
-Skills: (list your skills)
-Banner: (Gradient / Neon / No banner)
+![banner](istockphoto-2192134048-612x612)
+
+
 
 <!--
 **krishnaRaj302/krishnaRaj302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
