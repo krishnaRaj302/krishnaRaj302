@@ -1,5 +1,19 @@
-## Hi there 👋
-![banner](istockphoto-2192134048-612x612)
+# Hi, I'm Krishna Raj 👋
+
+Python & Django Backend Developer
+
+Focused on backend systems, APIs, authentication systems, and writing clean maintainable code.
+
+## Skills
+- Python
+- Django
+- MySQL
+- Postgres
+- Git
+- Linux
+
+## Current Focus
+Building backend applications and improving problem-solving skills.
 
 
 
