@@ -1,19 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Backend+Developer;Learning+Backend+Systems;Building+Clean+Projects" />
+</p>
+
 # Hi, I'm Krishna Raj 👋
-
-Python & Django Backend Developer
-
-Focused on backend systems, APIs, authentication systems, and writing clean maintainable code.
-
-## Skills
-- Python
-- Django
-- MySQL
-- Postgres
-- Git
-- Linux
-
-## Current Focus
-Building backend applications and improving problem-solving skills.
 
 
 
