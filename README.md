@@ -38,3 +38,7 @@ class KrishnaRaj:
         ]
 
 me = KrishnaRaj()
+```
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/krishnaRaj302/krishnaRaj302/output/github-contribution-grid-snake.svg)
